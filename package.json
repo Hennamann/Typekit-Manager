@@ -1,0 +1,17 @@
+{
+  "name": "typekit-manager",
+  "version": "1.0.0",
+  "description": "A small menubar app for managing your Typekit fonts!",
+  "dependencies": {
+    "menubar": "*"
+  },
+  "devDependencies": {
+    "electron-packager": "^5.1.0",
+    "electron-prebuilt": "^0.36.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "build": "electron-packager . Example --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
+    "start": "electron ."
+  }
+}
