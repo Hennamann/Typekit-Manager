@@ -1,0 +1,32 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="typekit-manager.henrikstabell.com" resolutions="1x,2x" timestamp="1480876843905">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4201952619" ref="index"/>
+    <file name="index.css" crc="446337735" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="typekit-manager-logo.svg" crc="164220522" seo="true" ref="index"/>
+    <file name="typekit manager logo_poster_.png" crc="3824966606" ref="index"/>
+    <file name="screenshot 1.jpg" crc="32996433" seo="true" ref="index"/>
+    <file name="screenshot 1_2x.jpg" crc="264156846" seo="true" ref="index"/>
+    <file name="screenshot 2.jpg" crc="4102301582" seo="true" ref="index"/>
+    <file name="screenshot 2_2x.jpg" crc="3868277286" seo="true" ref="index"/>
+    <file name="windows-10-logo.svg" crc="3830825300" seo="true" ref="index"/>
+    <file name="windows 10 logo_poster_.png" crc="3983555088" ref="index"/>
+    <file name="apple-logo.svg" crc="281090209" seo="true" ref="index"/>
+    <file name="apple logo_poster_.png" crc="4020183195" ref="index"/>
+    <file name="octocat.png" crc="3822955573" seo="true" ref="index"/>
+    <file name="octocat_2x.png" crc="4069897505" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="174778161" seo="true" mt="1480876449230" redirect="true"/>
+</manifest>
