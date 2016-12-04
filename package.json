@@ -9,9 +9,21 @@
     "electron-packager": "^5.1.0",
     "electron-prebuilt": "^0.36.0"
   },
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "build": "electron-packager . Example --platform=darwin --arch=x64 --version=0.36.0 --icon=Icon.icns",
-    "start": "electron ."
-  }
+    "start": "electron .",
+    "build": "npm run build-mac && npm run build-win",
+    "build-mac": "electron-packager . 'Typekit Manager' --out=release/mac --platform=darwin --arch=x64 --version=0.36.0 --icon=./res/Icon.icns",
+    "build-win": "electron-packager . 'Typekit Manager' --out=release/win --platform=win32 --arch=all --version=0.36.0 --icon=./res/Icon.ico"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/hennamann/typekit-manager.git"
+  },
+  "author": "Ole Henrik Stabell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hennamann/typekit-manager/issues"
+  },
+  "homepage": "https://typekit-manager.henrikstabell.com"
 }
