@@ -2,7 +2,7 @@
 Typekit manager puts the all familiar Typekit interface in your menubar/taskbar, no more fiddling with Typekit.com in your web browser. Spend your time on finding fonts, rather than navigating trough the maze that is your web browser!
 
 ## Screenshots
-Coming soon!
+![](https://typekit-manager.henrikstabell.com/images/screenshot%201_2x.jpg?crc=264156846)![](https://typekit-manager.henrikstabell.com/images/screenshot%202_2x.jpg?crc=3868277286)
 
 ## Download
 The downloads are located here: https://github.com/Hennamann/Typekit-Manager/releases. 
